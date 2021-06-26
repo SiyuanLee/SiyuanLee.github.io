@@ -1,0 +1,6 @@
+@article{wang2019influence,
+  title={Influence-Based Multi-Agent Exploration},
+  author={Wang, Tonghan and Wang, Jianhao and Wu, Yi and Zhang, Chongjie},
+  journal={arXiv preprint arXiv:1910.05512},
+  year={2019}
+}
