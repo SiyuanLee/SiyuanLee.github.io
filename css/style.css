@@ -2,14 +2,14 @@
 
 body {
   padding:50px;
-  font:20px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
-  font-weight:300;
+  font:18px/1.4 Open Sans,"Helvetica Neue", Helvetica, sans-serif;
+  color:#666;
+  font-weight:520;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 1150px;
+  max-width: 1250px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,6 +19,27 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
+}
+
+p1 {
+  margin-right: 70px;
+}
+
+p2 {
+  margin-right: -20px;
+}
+
+p3 {
+  margin-right: 60px;
+}
+
+p4 {
+  color:#63a35c;
+  font-weight:600;
+}
+
+p5 {
+  color:#393939;
 }
 
 h1, h2, h3 {
@@ -40,7 +61,7 @@ h3, h4, h5, h6 {
 
 a {
   color:#39c;
-  font-weight:400;
+  font-weight:600;
   text-decoration:none;
 }
 
@@ -97,9 +118,10 @@ img {
 }
 
 header {
-  width:270px;
+  width:400px;
   float:left;
   position:fixed;
+  text-align:center;
 }
 
 header ul {
@@ -161,7 +183,7 @@ header ul a strong {
 }
 
 section {
-  width:780px;
+  width:800px;
   float:right;
   padding-bottom:50px;
 }
